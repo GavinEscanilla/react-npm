@@ -8,7 +8,7 @@ function App() {
 
   return (
     <div className="App bg-red-900 h-screen">
-      App
+      Weather App
     </div>
   )
 }
