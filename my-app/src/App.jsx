@@ -7,7 +7,7 @@ function App() {
 
   return (
     <div className="App bg-gray-100 h-screen">
-      <h1 className="text-8xl font-bold text-center">Wordle</h1>
+      <h1 className="text-8xl font-bold text-center">practice</h1>
     </div>
   );
 }
